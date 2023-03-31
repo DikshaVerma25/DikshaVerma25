@@ -3,13 +3,14 @@
 - 🔭 I’m currently a Master's Student at University of Florida majoring in Computer Science
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on any Full stack projects or softwares.
-- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/diksha-verma-/)  
-<!-- - 🤔 I’m looking for help with ... -->
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/diksha-verma-/)  
+- - ⚡ Fun fact: Dancer 
+<!--  - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: ... -->
+
+
 
 
 ![Repository's Stats](https://github-readme-stats.vercel.app/api?username=DikshaVerma25&show_icons=true)
