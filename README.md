@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently a Master's Student at University of Florida majoring in Computer Science
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m actively looking for Software Engineer roles
 - 👯 I’m looking to collaborate on any Full stack projects or softwares.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/diksha-verma-/)  
 - ⚡ Fun fact: Dancer 
