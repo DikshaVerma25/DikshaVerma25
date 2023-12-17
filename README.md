@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a Master's Student at University of Florida majoring in Computer Science
-- 🌱 I’m working as a Developer and Big Data Analyst at BMW Group
+- 🔭 I’m currently working as a Developer and Big Data Analyst at BMW Group
 - 👯 I’m looking to collaborate on any Full stack projects or software.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/diksha-verma-/)  
 - ⚡ Fun fact: Dancer 
